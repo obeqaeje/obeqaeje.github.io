@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://obeqaeje.github.io/KBF/sitemap_index.txt
+Sitemap: https://obeqaeje.github.io/cov/sitemap_index.txt
+Sitemap: https://obeqaeje.github.io/nOc/sitemap_index.txt
+Sitemap: https://obeqaeje.github.io/qwI/sitemap_index.txt
